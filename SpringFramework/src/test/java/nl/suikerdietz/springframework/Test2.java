@@ -7,7 +7,7 @@ import org.junit.*;
 public class Test2 {
 
 	@Test
-	public static void Test()
+	public void Test()
 	{
 		assertEquals(1, 2);
 	}
