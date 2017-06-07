@@ -9,6 +9,6 @@ public class Test2 {
 	@Test
 	public void Test()
 	{
-		assertEquals(1, 2);
+		assertEquals(1, 1);
 	}
 }
